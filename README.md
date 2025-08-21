@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [N-Body Simulator](https://github.com/romirtandon/Nbody_Simulation)
 
-- 🌱 I’m currently learning **The Barnes-Hutt Algorithim**
+- 🌱 I’m currently learning about **CFD's!**
 
 - 💬 Ask me about **Vectors!**
 
